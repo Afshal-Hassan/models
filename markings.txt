@@ -1,0 +1,34 @@
+29- No
+30- Thank You
+31- Sorry
+32- Please
+33- Goodbye
+34- Start
+35- Stop
+
+
+Local Markings
+
+12- You
+13- He / She / It
+15- I / Me
+16- We
+17- Us
+18- They
+19- My
+20- Be
+21- Have
+22- Say
+23- Do
+24- Go
+25- Busy
+26- Find
+27- Fast
+28- Food
+29- Hot
+31- Teacher
+32- Quiz
+33- Blackboard
+34- Welldone/ Good
+35- Make / Create
+36- I Love You
